@@ -1,1 +1,2 @@
-# Exercício entregável 1 - clonando um repositório
+# Exercício entregável 1
+clonando um repositório
